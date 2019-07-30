@@ -1,0 +1,598 @@
+﻿2018-06-27 13:26:26,732 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:26:26,732 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:26:26,732 [DEBUG] Signal: SELL
+2018-06-27 13:26:26,732 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:26:26,768 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:27,474 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:27,501 [DEBUG] Bid best price: 77.85 USDT
+2018-06-27 13:26:27,579 [DEBUG] Waiting for 77.77 or cancel on 77.93
+2018-06-27 13:26:27,582 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:28,001 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:30,008 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:30,443 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:32,451 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:32,935 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:34,938 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:35,356 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:37,362 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:37,794 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:39,802 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:40,240 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:42,248 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:42,674 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:44,682 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:45,107 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:47,117 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:48,048 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:50,055 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:50,484 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:52,492 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:52,920 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:54,924 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:55,343 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:57,352 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:26:57,781 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:26:59,789 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:00,210 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:02,218 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:02,646 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:04,654 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:05,086 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:07,095 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:08,292 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:10,301 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:10,736 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:12,743 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:13,168 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:15,176 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:15,602 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:17,611 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:18,041 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:20,049 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:20,486 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:22,494 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:22,922 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:24,927 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:25,335 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:27,340 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:27,761 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:29,768 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:30,709 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:32,716 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:33,709 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:35,717 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:36,143 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:38,149 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:38,563 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:38,568 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:27:38,723 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:27:38,724 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:27:38,724 [DEBUG] Signal: SELL
+2018-06-27 13:27:38,724 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:27:38,728 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:39,161 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:39,163 [DEBUG] Bid best price: 77.87 USDT
+2018-06-27 13:27:39,267 [DEBUG] Waiting for 77.79 or cancel on 77.95
+2018-06-27 13:27:39,270 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:39,694 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:41,702 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:42,124 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:44,132 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:44,560 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:46,568 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:46,987 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:48,994 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:49,422 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:51,430 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:51,867 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:53,874 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:54,811 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:56,819 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:57,263 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:27:59,271 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:27:59,697 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:01,704 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:02,127 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:04,133 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:04,532 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:06,540 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:06,955 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:08,960 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:09,388 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:11,394 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:12,307 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:12,312 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:28:12,443 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:28:12,443 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:28:12,444 [DEBUG] Signal: SELL
+2018-06-27 13:28:12,444 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:28:12,447 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:12,878 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:12,883 [DEBUG] Bid best price: 77.99 USDT
+2018-06-27 13:28:12,994 [DEBUG] Waiting for 77.91 or cancel on 78.07
+2018-06-27 13:28:12,996 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:13,419 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:15,425 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:15,853 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:17,860 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:18,269 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:20,278 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:20,703 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:22,711 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:23,138 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:25,147 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:25,569 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:27,576 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:28,006 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:30,013 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:30,439 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:32,446 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:32,926 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:34,929 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:35,344 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:37,352 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:37,780 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:39,788 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:40,219 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:42,227 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:42,655 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:44,663 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:46,093 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:48,101 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:48,529 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:50,534 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:50,953 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:52,955 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:53,367 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:55,374 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:55,789 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:28:57,794 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:28:58,219 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:00,227 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:00,654 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:02,662 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:03,602 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:05,610 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:06,033 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:08,037 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:08,459 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:10,464 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:10,893 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:12,902 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:13,306 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:15,313 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:15,740 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:17,748 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:18,177 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:20,185 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:20,621 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:22,629 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:23,049 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:25,057 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:25,477 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:27,484 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:27,904 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:29,909 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:30,334 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:32,341 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:32,819 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:34,826 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:36,244 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:38,252 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:38,687 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:40,695 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:41,126 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:43,134 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:43,560 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:45,568 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:45,997 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:48,004 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:48,432 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:50,437 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:50,852 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:52,860 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:53,296 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:55,306 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:55,735 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:29:57,742 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:29:58,167 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:00,173 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:00,599 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:02,604 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:03,032 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:05,040 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:05,473 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:05,477 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:30:05,555 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:30:05,555 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:30:05,556 [DEBUG] Signal: SELL
+2018-06-27 13:30:05,556 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:30:05,559 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:06,470 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:06,474 [DEBUG] Bid best price: 78.05 USDT
+2018-06-27 13:30:06,562 [DEBUG] Waiting for 77.97 or cancel on 78.13
+2018-06-27 13:30:06,565 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:06,985 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:08,991 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:09,413 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:11,419 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:11,843 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:13,850 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:14,271 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:16,278 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:17,459 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:17,463 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:30:17,577 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:30:17,577 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:30:17,577 [DEBUG] Signal: SELL
+2018-06-27 13:30:17,577 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:30:17,581 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:17,986 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:17,991 [DEBUG] Bid best price: 78.14 USDT
+2018-06-27 13:30:18,075 [DEBUG] Waiting for 78.06 or cancel on 78.22
+2018-06-27 13:30:18,079 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:18,503 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:20,509 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:20,933 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:22,939 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:23,351 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:25,360 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:25,789 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:27,798 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:28,215 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:30,221 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:30,638 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:32,644 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:33,165 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:35,172 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:36,111 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:38,119 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:38,543 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:40,551 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:40,971 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:42,977 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:43,398 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:45,406 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:45,832 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:47,839 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:48,285 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:50,296 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:50,718 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:52,727 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:53,155 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:55,163 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:56,084 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:30:58,092 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:30:58,514 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:00,521 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:00,945 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:02,949 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:03,364 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:05,370 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:05,799 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:07,806 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:08,235 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:10,242 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:10,671 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:12,678 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:13,105 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:15,112 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:15,539 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:17,546 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:17,974 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:19,977 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:20,387 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:22,395 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:22,820 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:24,828 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:25,243 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:27,250 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:27,673 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:29,681 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:30,098 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:32,104 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:32,516 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:34,524 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:35,006 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:37,010 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:37,421 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:39,426 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:39,850 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:41,855 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:42,270 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:44,274 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:44,697 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:46,704 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:47,132 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:49,139 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:49,560 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:51,568 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:51,997 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:54,006 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:54,432 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:56,441 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:56,864 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:31:58,871 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:31:59,292 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:01,300 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:01,731 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:03,740 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:04,163 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:06,170 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:06,597 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:08,603 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:09,024 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:11,027 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:11,456 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:13,463 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:13,887 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:15,895 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:16,307 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:18,312 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:18,739 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:20,747 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:21,165 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:23,173 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:23,601 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:25,609 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:26,031 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:28,037 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:28,459 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:30,464 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:30,870 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:32,873 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:33,301 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:35,309 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:35,774 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:37,781 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:38,210 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:40,218 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:40,649 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:42,656 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:43,076 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:45,083 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:45,501 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:47,509 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:47,929 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:49,935 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:50,347 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:52,356 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:52,783 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:54,791 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:55,727 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:32:57,735 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:32:58,663 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:00,672 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:01,099 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:03,105 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:04,540 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:06,547 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:06,971 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:08,978 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:09,411 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:11,417 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:11,843 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:13,851 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:14,275 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:16,282 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:16,709 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:18,716 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:19,130 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:21,133 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:21,546 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:23,554 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:23,975 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:25,983 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:26,390 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:28,397 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:28,825 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:30,832 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:31,249 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:33,260 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:33,690 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:35,698 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:36,197 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:38,206 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:39,140 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:41,144 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:41,569 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:43,576 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:44,003 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:46,008 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:46,436 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:48,444 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:48,871 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:50,878 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:51,282 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:53,291 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:53,719 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:55,727 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:56,153 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:33:58,161 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:33:58,585 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:00,593 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:01,016 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:03,021 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:03,451 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:05,459 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:06,398 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:06,402 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:34:06,478 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:34:06,479 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:34:06,479 [DEBUG] Signal: SELL
+2018-06-27 13:34:06,479 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:34:06,482 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:07,925 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:07,929 [DEBUG] Bid best price: 78.24 USDT
+2018-06-27 13:34:08,051 [DEBUG] Waiting for 78.16 or cancel on 78.32
+2018-06-27 13:34:08,055 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:08,481 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:10,488 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:10,912 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:12,919 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:13,328 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:15,335 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:15,771 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:17,777 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:18,206 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:20,212 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:20,632 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:22,639 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:23,574 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:25,581 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:26,006 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:28,010 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:28,433 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:30,440 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:30,870 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:32,878 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:33,301 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:35,309 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:35,784 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:37,791 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:38,224 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:40,231 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:40,657 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:42,664 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:43,089 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:45,098 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:45,517 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:47,524 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:47,956 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:49,961 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:50,371 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:52,380 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:53,310 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:55,316 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:55,744 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:34:57,752 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:34:59,202 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:01,210 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:01,637 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:03,644 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:04,077 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:06,083 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:06,499 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:08,506 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:08,936 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:10,944 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:11,371 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:13,378 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:14,304 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:14,308 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:35:14,436 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:35:14,437 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:35:14,437 [DEBUG] Signal: SELL
+2018-06-27 13:35:14,437 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:35:14,441 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:14,871 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:14,875 [DEBUG] Bid best price: 78.33 USDT
+2018-06-27 13:35:14,967 [DEBUG] Waiting for 78.25 or cancel on 78.41
+2018-06-27 13:35:14,968 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:15,394 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:17,402 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:17,834 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:19,842 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:20,265 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:22,272 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:22,702 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:24,707 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:25,136 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:27,144 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:27,548 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:29,554 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:29,966 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:31,970 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:32,395 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:34,400 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:34,879 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:34,883 [DEBUG] CANCEL waiting SELL ORDER
+2018-06-27 13:35:34,958 [DEBUG] !!!!! NO ACTIVE ORDERS !!!!!
+2018-06-27 13:35:34,958 [DEBUG] ***** Start working with LTCUSDT *****
+2018-06-27 13:35:34,958 [DEBUG] Signal: SELL
+2018-06-27 13:35:34,958 [DEBUG] Start calculating waiting prices for selling LTC ...
+2018-06-27 13:35:34,960 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:35,365 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:35,369 [DEBUG] Bid best price: 78.41 USDT
+2018-06-27 13:35:35,481 [DEBUG] Waiting for 78.33 or cancel on 78.49
+2018-06-27 13:35:35,486 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:35,965 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:37,969 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:38,383 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:40,388 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:40,818 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:42,824 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:43,250 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:45,259 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:46,201 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:48,208 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:49,131 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:51,139 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:51,566 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:53,574 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:53,991 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:55,995 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:56,425 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:58,433 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:58,862 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:35:58,865 [DEBUG] Make SELL ORDER | Ask Best Price: 78.48000000
+2018-06-27 13:35:58,866 [DEBUG] Best Bid: 78.21 USDT | Best Ask: 78.48 USDT | Spread: 0.35%
+2018-06-27 13:35:58,866 [DEBUG] Ask price: 78.48 USDT | Sell amount: 0.14016 LTC | Notional: 10.9997568 USDT
+2018-06-27 13:35:58,866 [DEBUG] Sending LIMIT SELL ORDER...
+2018-06-27 13:35:58,928 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:35:59,351 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:35:59,356 [DEBUG] SELL ORDER 33536395 successfully placed.
+2018-06-27 13:35:59,356 [DEBUG] Updating DB with LIMIT SELL ORDER data...
+2018-06-27 13:35:59,438 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:00,388 [DEBUG] https://api.binance.com:443 "GET /api/v3/order?orderId=33536395&symbol=LTCUSDT&timestamp=1530095758000&signature=7cdbaf708ed228fa817c98ea17a8049ea81866ac8c70ad52ccf86bd84bb403ab HTTP/1.1" 200 None
+2018-06-27 13:36:00,392 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:00,812 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:36:00,819 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:01,247 [DEBUG] https://api.binance.com:443 "DELETE /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:01,251 [DEBUG] Waiting order was canceled because of BestPrice
+2018-06-27 13:36:01,252 [DEBUG] Re-calculate SELL ORDER | Ask Best Price: 78.47000000
+2018-06-27 13:36:01,252 [DEBUG] Ask price: 78.47 USDT | Sell amount: 0.14018 LTC | Notional: 10.9999246 USDT
+2018-06-27 13:36:01,252 [DEBUG] Re-sending LIMIT SELL ORDER...
+2018-06-27 13:36:01,256 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:02,450 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:02,454 [DEBUG] LIMIT SELL ORDER 33536402 was successfully re-placed.
+2018-06-27 13:36:04,593 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:05,035 [DEBUG] https://api.binance.com:443 "GET /api/v3/order?orderId=33536402&symbol=LTCUSDT&timestamp=1530095763000&signature=d8e0a4d74c20b0cf3f30341e0498edbe804120e23b41761061d685e5b74e69f1 HTTP/1.1" 200 None
+2018-06-27 13:36:05,038 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:05,974 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:36:05,977 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:06,392 [DEBUG] https://api.binance.com:443 "DELETE /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:06,397 [DEBUG] Waiting order was canceled because of BestPrice
+2018-06-27 13:36:06,397 [DEBUG] Re-calculate SELL ORDER | Ask Best Price: 78.44000000
+2018-06-27 13:36:06,397 [DEBUG] Ask price: 78.44 USDT | Sell amount: 0.14023 LTC | Notional: 10.9996412 USDT
+2018-06-27 13:36:06,398 [DEBUG] Re-sending LIMIT SELL ORDER...
+2018-06-27 13:36:06,401 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:06,840 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:06,845 [DEBUG] LIMIT SELL ORDER 33536414 was successfully re-placed.
+2018-06-27 13:36:08,980 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:09,401 [DEBUG] https://api.binance.com:443 "GET /api/v3/order?orderId=33536414&symbol=LTCUSDT&timestamp=1530095767000&signature=02b8e9c705090c55eadd9031292b3338c2ff8417a0e199cb1697542d9a1a4d31 HTTP/1.1" 200 None
+2018-06-27 13:36:09,408 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:10,836 [DEBUG] https://api.binance.com:443 "GET /api/v3/ticker/bookTicker?symbol=LTCUSDT HTTP/1.1" 200 None
+2018-06-27 13:36:10,843 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:11,760 [DEBUG] https://api.binance.com:443 "DELETE /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:11,764 [DEBUG] Waiting order was canceled because of BestPrice
+2018-06-27 13:36:11,764 [DEBUG] Re-calculate SELL ORDER | Ask Best Price: 78.34000000
+2018-06-27 13:36:11,764 [DEBUG] Ask price: 78.34 USDT | Sell amount: 0.14041 LTC | Notional: 10.9997194 USDT
+2018-06-27 13:36:11,765 [DEBUG] Re-sending LIMIT SELL ORDER...
+2018-06-27 13:36:11,768 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:12,205 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:12,210 [DEBUG] LIMIT SELL ORDER 33536430 was successfully re-placed.
+2018-06-27 13:36:14,358 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:14,793 [DEBUG] https://api.binance.com:443 "GET /api/v3/order?orderId=33536430&symbol=LTCUSDT&timestamp=1530095773000&signature=723e82bbc954ce1d5998703328d397b53bda2a2675d21ae07973d50f67676407 HTTP/1.1" 200 None
+2018-06-27 13:36:14,797 [DEBUG] Order: 33536430 was FILLED
+2018-06-27 13:36:14,922 [DEBUG] [FILLED] ACTIVE SELL ORDER: 33536430 | Amount: 0.14041 LTC | Price: 78.34 USDT | Notional: 10.9997194 USDT
+2018-06-27 13:36:14,922 [DEBUG] Calculating closing TP & SL orders...
+2018-06-27 13:36:14,923 [DEBUG] Actual amount 10.98871968 USDT | TP amount: 0.14125 LTC | TP price: 77.8 USDT | SL amount: 0.14013 LTC | SL price 78.42 USDT
+2018-06-27 13:36:14,923 [DEBUG] Sending TAKE PROFIT LIMIT BUY ORDER...
+2018-06-27 13:36:14,927 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:15,362 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:15,365 [DEBUG] Sending STOP LOSS LIMIT BUY ORDER...
+2018-06-27 13:36:15,367 [DEBUG] Starting new HTTPS connection (1): api.binance.com
+2018-06-27 13:36:15,791 [DEBUG] https://api.binance.com:443 "POST /api/v3/order HTTP/1.1" 200 None
+2018-06-27 13:36:15,796 [DEBUG] 2 CLOSING SELL Orders successfully placed.
+2018-06-27 13:36:15,881 [DEBUG] Waiting for TP or SL...

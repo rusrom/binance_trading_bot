@@ -1,0 +1,2 @@
+signal,pair,type,best_bid,best_ask,spread,start_created,start_price,order_id,created,amount,price,notional,status,filled,actual_amount,tp_order_id,tp_price,tp_amount,sl_order_id,sl_price,sl_amount,wait_price,wait_cancel
+SELL,LTCUSDT,LIMIT,78.21,78.48,0.35,2018-06-27 13:35:58,78.48,33536430,2018-06-27 13:36:11,0.14041,78.34,10.9997194,FILLED,2018-06-27 13:36:11,10.98871968,33536442,77.8,0.14125,33536444,78.42,0.14013,78.33,78.49

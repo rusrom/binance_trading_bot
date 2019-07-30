@@ -1,0 +1,8 @@
+type,pair,order_id,created,amount,price,finished,actual_amount,tp_order_id,tp_price,sl_order_id,sl_price
+buy,BTCUSDT,10,12:00,0.01,6800.5,12:08,0.009,9000,6881.55,2000,6790.55
+buy,LTCUSDT,20,12:54,0.1,138.55,12:54,0.09,9010,150.71,2010,129.95
+buy,NEOUSDT,30,13:02,0.2,53.45,,,,,,
+sell,LTCBNB,40,13:02,2.3,65.44,13:10,2.29,9030,61.01,3030,66.51
+buy,XEMUSDT,50,13:45,200,0.3456,,,,,,
+sell,ETHBNB,60,14:43,75.55,4.6443,14:55,75.47,9050,3.5541,3040,4.7884
+sell,ETCUSDT,55,14:22,5,15.24,,,,,,
